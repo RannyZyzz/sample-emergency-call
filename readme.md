@@ -12,3 +12,7 @@ B --> D[numero emergencia]
 ```
 
 > **Obs**: Trata-se de um código simples que pode ser estilizado conforme necessidade da Operadora
+
+
+![image](https://github.com/RannyZyzz/sample-emergency-call/assets/44988166/d446676c-6cd5-4561-9e07-89464a3417a5)
+
