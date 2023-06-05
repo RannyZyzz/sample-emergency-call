@@ -3,7 +3,7 @@ Para aqueles que desejam disponibilizar uma funcionalidade que ao ser clicada re
 
 > É possível que ao clicar na funcionalidade a mesma já realize a ligação evitando um novo clique em um botão, neste caso basta remover a linha comentada no index.html
 
-<center>
+
 ```mermaid
 graph LR
 A[app] --> B((webview))
